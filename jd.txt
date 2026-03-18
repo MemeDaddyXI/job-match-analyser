@@ -1,0 +1,115 @@
+Code schreiben, der wirklich benutzt wird.
+
+Du willst nicht nur lernen, sondern bauen? Bei XALT entwickelst du echte Software-Produkte — von AI-Agents über Cloud-Plattformen bis zu Atlassian Forge Apps. Du arbeitest mit TypeScript, Python, React und modernsten AI-Tools an Lösungen wie Container8.io, startlobster.de und Atlassian-Integrationen für Enterprise-Kunden.
+
+📍 Leipzig, München oder Remote · Teilzeit (15–20h)
+
+Daran wirst du arbeiten
+
+Echte Projekte, echte Nutzer — keine Übungsaufgaben.
+
+
+
+
+
+StartLobster.de: Managed Clawd Hosting für deutsche Unternehmen. DSGVO-konform auf Hetzner. Du hilfst bei Setup-Automatisierung, Landing Pages und Kunden-Onboarding.
+
+
+
+Clawd AI Agents: Konfiguration und Entwicklung von KI-Agenten — Skills, Integrationen (Slack, WhatsApp, E-Mail) und Custom Workflows für B2B-Kunden.
+
+
+
+AI-Powered Wallboards: Intelligente Dashboards und Wallboards für Atlassian-Kunden — KI-generierte Visualisierungen, Live-Daten aus Jira & Confluence und automatische Insights.
+
+
+
+Vibe Coding Landing Pages: Moderne Landing Pages und Marketing-Seiten mit AI-gestütztem Coding. HTML/CSS/JS ohne Frameworks — schnell, schön, performant.
+
+
+
+Container8.io: DevSecOps as a Service — unsere Kubernetes-basierte Cloud-Plattform. Hier lernst du DevOps, CI/CD und Cloud-Infrastruktur in der Praxis.
+
+
+
+Event & Campaign Pages: Landing Pages für Atlassian Events wie Cloud Bound, High Velocity und Webinare. Analytics, A/B-Tests und Conversion-Optimierung.
+
+
+
+Interne AI-Tools: Automatisierung interner Prozesse — von SEO-Audits über Wettbewerbsanalysen bis hin zu Content-Erstellung mit KI-Unterstützung.
+
+Das bringst du mit
+
+
+
+
+
+Laufendes Studium in Informatik, Wirtschaftsinformatik, Data Science oder vergleichbar
+
+
+
+Interesse an KI, LLMs und AI-Agenten — du musst kein Experte sein, aber neugierig
+
+
+
+Grundkenntnisse in mindestens einer Programmiersprache (Python, JavaScript, TypeScript, o.ä.)
+
+
+
+Vertrautheit mit Git und der Kommandozeile
+
+
+
+Bonus: Erfahrung mit HTML/CSS, Cloud-Services (AWS, Hetzner) oder DevOps-Tools (Docker, CI/CD)
+
+
+
+Eigeninitiative und Lust, Dinge auszuprobieren statt auf Aufgaben zu warten
+
+
+
+Gute Deutsch- und Englischkenntnisse
+
+Das bieten wir dir
+
+
+
+
+
+Echte Verantwortung an echten Projekten — keine Kaffee-holen-Kultur
+
+
+
+Zugang zu modernsten AI-Tools und LLM-APIs (Claude, GPT-4)
+
+
+
+Flexibles Arbeiten — Remote oder in unseren Offices in Leipzig & München
+
+
+
+Internationales, technikbegeistertes Team ohne Hierarchie-Barrieren
+
+
+
+MacBook oder eigenes Device — du entscheidest, womit du arbeitest
+
+
+
+Zertifizierungen (AWS, Atlassian) mit unserer Unterstützung
+
+
+
+Perspektive auf Übernahme nach dem Studium — wir wachsen und brauchen gute Leute
+
+
+
+Unlimited AI Tokens (Claude, GPT-4, etc.)
+
+
+
+Maker Space im Office: 3 × 3D-Drucker, Lötstation, Raspberry Pis & Microcontroller
+
+Tech Stack
+
+Node.js · TypeScript · Python · HTML/CSS/JS · React · Git & GitHub · Docker · Hetzner Cloud · Linux · Terraform · CI/CD Pipelines · Jira & Confluence · Atlassian Cloud · Slack & WhatsApp APIs · DNS & Domain Management
